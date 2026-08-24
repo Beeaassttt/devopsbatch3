@@ -1,2 +1,0 @@
-This is to check the login authentication
-THis is the update to check if I can see the git status changes
